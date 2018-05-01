@@ -2,7 +2,7 @@
 朝食用のリポジトリ
 
 ## gitHub
-[本番](https://matsuo-y.github.io/git-practice-breakfast/)
+[本番](https://git-training-breakfast-oka.herokuapp.com/)
 
 ## heroku
 [本番](https://git-practice-breakfast.herokuapp.com/)
